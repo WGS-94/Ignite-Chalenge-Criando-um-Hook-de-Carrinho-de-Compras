@@ -77,9 +77,11 @@ ou
 $ npm install
 # Executando o teste do Projeto
 $ yarn test
+# Executando a Fake API com JSON Server
+$ yarn server
 # Executando o Projeto
 $ yarn start 
 ou
-$ npm run dev
+$ npm run start
 # Acesse http://localhost:3000 no seu navagador
 ```
