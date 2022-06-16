@@ -30,23 +30,25 @@ Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no e
 
 <!--https://www.figma.com/file/8n9339j7p3LTzWyZdVM9C3/ToDo-List-(Copy)?node-id=43%3A88 -->
 
+<!--
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate). Lembrando que você  precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List/duplicate). Lembrando que você  precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo. 
+-->
 
 ## 🖼️ Imagens do Desafio
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87288949/172730389-8014e84e-6f3f-48a8-8529-a55b4b2b49b6.PNG">
+  <img src="https://user-images.githubusercontent.com/87288949/174185786-7c83f648-bb38-4c5a-a586-b5d45e669ed7.PNG">
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87288949/172730383-cfb3998e-3324-42df-ba91-a389bb1a21af.PNG">
+  <img src="https://user-images.githubusercontent.com/87288949/174185799-564ca705-bbf1-482c-b177-19d6622e0215.PNG">
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87288949/172730390-a5179d12-954c-47ec-b328-edd8ecff4fb6.PNG">
+  <img src="https://user-images.githubusercontent.com/87288949/174185803-1409c0be-fe89-4825-8e19-b6f17b333d0c.PNG">
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87288949/172730388-c4d2805d-834a-4605-a2d6-7dfedb7602cc.PNG">
+  <img src="https://user-images.githubusercontent.com/87288949/174185804-01551925-29ec-4289-bf69-b99f0cd4851e.PNG">
 </div>
 
 ## 🧰 Tecnologias e Bibliotecas
