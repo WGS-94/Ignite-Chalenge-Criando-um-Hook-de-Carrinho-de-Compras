@@ -21,12 +21,15 @@
 
 <!-- Sobre o Projeto -->
 ## 🚀 Sobre o Desafio
-Nesse desafio, você vai desenvolver uma aplicação de controle de tarefas no estilo to-do list, que contém as seguintes funcionalidades:
+Nesse desafio, você deverá criar uma aplicação onde o seu principal objetivo é criar um hook de carrinho de compras. Implementar as funcionalidades pedidas nesse desafio:
 
-- Adicionar uma nova tarefa
-- Marcar e desmarcar uma tarefa como concluída
-- Remover uma tarefa da listagem
-- Mostrar o progresso de conclusão das tarefas
+- Adicionar um novo produto ao carrinho;
+- Remover um produto do carrinho;
+- Alterar a quantidade de um produto no carrinho;
+- Cálculo dos preços sub-total e total do carrinho;
+- Validação de estoque;
+- Exibição de mensagens de erro;
+- Entre outros.
 
 <!--https://www.figma.com/file/8n9339j7p3LTzWyZdVM9C3/ToDo-List-(Copy)?node-id=43%3A88 -->
 
@@ -39,10 +42,10 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## 🖼️ Imagens do Desafio
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87288949/174185786-7c83f648-bb38-4c5a-a586-b5d45e669ed7.PNG">
+  <img src="https://user-images.githubusercontent.com/87288949/174185799-564ca705-bbf1-482c-b177-19d6622e0215.PNG">
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/87288949/174185799-564ca705-bbf1-482c-b177-19d6622e0215.PNG">
+  <img src="https://user-images.githubusercontent.com/87288949/174185786-7c83f648-bb38-4c5a-a586-b5d45e669ed7.PNG">
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/87288949/174185803-1409c0be-fe89-4825-8e19-b6f17b333d0c.PNG">
